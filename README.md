@@ -1,8 +1,8 @@
 # NiAn Chat
 
 ## About
-A simple MVC + Web Service Chat App with WPF Chat application for windows.
-Me and a buddy needed a simple little chat application to chat during the day that was not FB or Skype.
+A simple MVC + Web Service Chat App with WPF Chat application for windows.  
+Me and a buddy needed a simple little chat application to chat during the day that was not FB or Skype.  
 And instead of finding one, we decided it would be fun to work on one together, and build it from scratch.
 
 ## Authors on project
